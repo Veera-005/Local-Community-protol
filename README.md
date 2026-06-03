@@ -1,2 +1,17 @@
-# Digital-Nurture-5.0-Java-FSE---Upskilling-
-A collection of assignments, hands-on exercises, and projects completed during the Digital Nurture 5.0 Java FSE Upskilling Program, covering Front-End Development (HTML, CSS, JavaScript, Bootstrap), SQL Database Management, and Core Java Programming.
+# Digital Nurture 5.0 Java FSE Upskilling
+
+This repository contains assignments, practice exercises, coding solutions, and projects completed as part of the Digital Nurture 5.0 Java Full Stack Engineering (FSE) Upskilling Program.
+
+## Module 1: Front-End Development
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+
+## Module 2: Database Management
+- SQL Queries
+
+## Module 3: Core Java Programming
+- Java Fundamentals
+
+
