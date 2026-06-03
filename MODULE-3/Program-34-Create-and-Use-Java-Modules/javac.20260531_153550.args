@@ -1,0 +1,6 @@
+-d
+out
+--module-source-path
+.
+--module
+com.utils,com.greetings

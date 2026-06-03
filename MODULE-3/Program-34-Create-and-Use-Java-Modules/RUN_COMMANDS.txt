@@ -1,0 +1,8 @@
+Open terminal inside Program-34-Create-and-Use-Java-Modules folder.
+
+Compile:
+javac -d out --module-source-path . --module com.utils,com.greetings
+
+Run:
+java --module-path out -m com.greetings/com.greetings.Main
+

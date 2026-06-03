@@ -1,0 +1,12 @@
+nav{
+    display:flex;
+    gap:20px;
+}
+@media screen and (max-width:768px){
+nav{
+    display:block;
+}
+h1{
+    font-size:20px;
+}
+}

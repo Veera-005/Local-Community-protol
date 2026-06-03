@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+<button onclick="locationData()">
+Find Nearby Events
+</button>
+<p id="demo"></p>
+<script>
+function locationData(){
+navigator.geolocation.getCurrentPosition(
+showPosition,
+showError,
+{
+enableHighAccuracy:true,
+timeout:5000
+}
+);
+}
+function showPosition(position){
+document.getElementById("demo").innerHTML=
+position.coords.latitude+
+"<br>"+
+position.coords.longitude;
+}
+function showError(){
+alert("Location Error");
+}
+</script>
+</body>
+</html>
