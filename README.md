@@ -1,4 +1,4 @@
-# Digital Nurture 5.0 Java FSE Upskilling
+# Local community protol
 
 This repository contains assignments, practice exercises, coding solutions, and projects completed as part of the Digital Nurture 5.0 Java Full Stack Engineering (FSE) Upskilling Program.
 
